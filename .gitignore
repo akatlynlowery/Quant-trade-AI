@@ -166,3 +166,11 @@ app.*.symbols
 
 # AI related
 .agents/skills/personal-*
+.claude/
+.codex/
+.cursor/
+.windsurf/
+.continue/
+.aider*
+claude/
+codex/
