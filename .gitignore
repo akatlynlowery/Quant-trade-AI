@@ -174,3 +174,7 @@ app.*.symbols
 .aider*
 claude/
 codex/
+.gemini/
+GEMINI.md
+**/GEMINI.md
+**/.gemini/
